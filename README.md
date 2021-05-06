@@ -1,5 +1,6 @@
-# react-projects-7-slider
+# Slides
 
-#### IN ACTION
+Slides app built with React.
+Built as part of a [React course](https://www.udemy.com/course/react-tutorial-and-projects-course)
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
+[Visit project site](https://obrm-slides.netlify.app)
